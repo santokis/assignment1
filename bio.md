@@ -7,3 +7,4 @@ CS162 - Continued enhancement of high level language learning with C. Implemente
 
 Goals:
 Short term - Build my understanding of programming concepts and completion of post-bac Computer Science degree.
+Long term - Move home to Hawaii and pursue a career in programming/software engineering.
